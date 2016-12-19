@@ -1,0 +1,14 @@
+<ActionBar title="Add New Marker">
+    <NavigationButton text="Back" ios.position="left"></NavigationButton>
+</ActionBar>
+
+    <StackLayout>
+        <TextField hint="Location Name" [(ngModel)]="locationName"></TextField>
+        <TextField hint="Location Picture" [(ngModel)]="locationPicture"></TextField>
+        <TextField hint="Location Coordinates"  [(ngModel)]="locationCoordinates"></TextField>
+        <TextField hint="Location Type" ></TextField>
+        
+        <Button text="button" (tap)="logValues()"></Button>
+    </StackLayout>
+
+ 

@@ -1,0 +1,4 @@
+
+android {
+    flavorDimensions "nativescriptcouchbase", "nativescriptgeolocation", "nativescriptgooglemapssdk", "tnscoremoduleswidgets"
+}

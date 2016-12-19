@@ -1,0 +1,69 @@
+{
+  "name": "nativescript-google-maps-sdk",
+  "version": "1.4.1",
+  "description": "Google Maps SDK plugin for Nativescript",
+  "main": "map-view.js",
+  "typings": "map-view.d.ts",
+  "nativescript": {
+    "platforms": {
+      "android": "1.5.1",
+      "ios": "1.5.1"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dapriett/nativescript-google-maps-sdk.git"
+  },
+  "keywords": [
+    "Nativescript",
+    "Google",
+    "Maps",
+    "API",
+    "SDK"
+  ],
+  "author": {
+    "name": "Dan Prietti",
+    "email": "dprietti@gmail.com",
+    "url": "https://github.com/dapriett"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dapriett/nativescript-google-maps-sdk/issues"
+  },
+  "homepage": "https://github.com/dapriett/nativescript-google-maps-sdk#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "tns-core-modules": "^1.5.1",
+    "typescript": "^1.8.0"
+  },
+  "gitHead": "f3af3d181f6086bd407c8a2f9af97ce303509cbb",
+  "_id": "nativescript-google-maps-sdk@1.4.1",
+  "_shasum": "a63bacbfe90acfdaa63d9a911b4510c62a668161",
+  "_from": "nativescript-google-maps-sdk@latest",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "dprietti",
+    "email": "npm@prietti.com"
+  },
+  "dist": {
+    "shasum": "a63bacbfe90acfdaa63d9a911b4510c62a668161",
+    "tarball": "https://registry.npmjs.org/nativescript-google-maps-sdk/-/nativescript-google-maps-sdk-1.4.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "dprietti",
+      "email": "npm@prietti.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-google-maps-sdk-1.4.1.tgz_1478748987559_0.07431727135553956"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-google-maps-sdk/-/nativescript-google-maps-sdk-1.4.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

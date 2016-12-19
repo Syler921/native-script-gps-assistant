@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-ldpi-v4\\danger.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-ldpi\\danger.png"
+    },
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-ldpi-v4\\camera.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-ldpi\\camera.png"
+    },
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-ldpi-v4\\warning.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-ldpi\\warning.png"
+    },
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-ldpi-v4\\police_guard.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-ldpi\\police_guard.png"
+    },
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-nodpi-v4\\warning.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-nodpi\\warning.png"
+    },
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-nodpi-v4\\police_guard.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-nodpi\\police_guard.png"
+    },
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-nodpi-v4\\splash_screen.xml",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-nodpi\\splash_screen.xml"
+    },
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-nodpi-v4\\camera.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-nodpi\\camera.png"
+    },
+    {
+        "merged": "D:\\ns_test\\CourseWork1\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-nodpi-v4\\danger.png",
+        "source": "D:\\ns_test\\CourseWork1\\platforms\\android\\src\\main\\res\\drawable-nodpi\\danger.png"
+    }
+]
