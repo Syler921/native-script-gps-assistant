@@ -1,0 +1,1 @@
+# native-script-gps-assistant
